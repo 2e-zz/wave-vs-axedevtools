@@ -19,5 +19,5 @@ This project aims to determine which tool offers better usability for accessibil
 
 ## Author
 Jhelani Crawford
-Senior Research Project – Senior Research Project
+Senior Research Project – Wave-vs-AxeDevtools
 
